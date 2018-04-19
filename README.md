@@ -1,7 +1,7 @@
 # myproject
 
 > A Vue.js project
-
+![image](https://github.com/xiaowanzi2016/vue-rtee/blob/master/demo3.gif)
 ## Build Setup
 
 ``` bash
